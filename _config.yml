@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Time Matters: An End-to-End Solution for Temporal Claim Verification
-description: Hi There
+title: [Time Matters: An End-to-End Solution for Temporal Claim Verification]
+description: [Hi There]
 github:
   is_project_page: true
